@@ -1,2 +1,2 @@
 # ss-lora
-Repository for LoPy client. Used for the summer school.
+Repository for LoRa client. The blue version. Used for the summer school.
